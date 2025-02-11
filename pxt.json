@@ -1,0 +1,14 @@
+{
+    "name": "epi4t Number",
+    "version": "0.0.2",
+    "description": "Display 2-digit numbers on micro:bit without scrolling",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "icon": "icon.png",
+    "public": true
+}
